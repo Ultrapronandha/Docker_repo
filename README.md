@@ -378,5 +378,6 @@ C:\00_ANA\JavaEE\WS\docker-java-app-example>
 ```
 
 
-[Go back to TOC](#toc)#   d o c k e r - s p r i n g - b o o t - j a v a - w e b - s e r v i c e - e x a m p l e  
+[Go back to TOC](#toc)#   d o c k e r - s p r i n g - b o o t - j a v a - w e b - s e r v i c e - e x a m p l e 
+ 
  
